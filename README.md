@@ -1,5 +1,9 @@
 # Pluginer
 > Run dll files as a plugin
+>
+> Do you need everyone can create plugin for your softwares?
+>
+> Now, you can simply use the Pluginer for this purpose
 
 # Install Nuget
 `Install-Package Pluginer -Version 2.0.1`
