@@ -1,3 +1,5 @@
+> ✨ Support me: [wallet address](https://elatel.ir).
+
 # Pluginer
 > Run dll files as a plugin
 >
